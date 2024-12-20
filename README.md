@@ -36,6 +36,7 @@ I am an enthusiastic IT student at KMUTT with a passion for learning and a stron
 
   <img src="certificate-javascript.jpg" alt="Certificate JavaScript" width="300"/>
   <img src="certificate-react.jpg" alt="Certificate React" width="300"/>
+   <img src="certificate-typescript.jpg" alt="Certificate TypeScript" width="300"/>
 
 </div>
 
